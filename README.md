@@ -1,4 +1,4 @@
-# Django를 베이스로 bootstrap을 사용해서 landing페이지를 만들어봄.
+# Django bootstrap을 사용해서 landing페이지를 생성.
 - 무료 부트스트랩 파일을 Django에 적용
 
 - 아쉬웠던점
